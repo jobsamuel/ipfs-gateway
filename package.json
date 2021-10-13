@@ -1,0 +1,14 @@
+{
+  "name": "ipfs-gateway",
+  "version": "1.0.0",
+  "description": "A simple IPFS gateway api.",
+  "main": "functions/index.js",
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\""
+  },
+  "author": "Jobsamuel Nunez",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
