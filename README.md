@@ -4,7 +4,7 @@
 
 ## requirements
 
-Before start, you need to initialize your firebase project by adding a json file called `.firebaserc` containing this: 
+Before start, you need to initialize your firebase project by adding a json file called `.firebaserc` containing this:
 
 ```json
 {
