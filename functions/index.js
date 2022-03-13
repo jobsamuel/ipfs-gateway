@@ -1,7 +1,7 @@
 const functions = require('firebase-functions')
 const admin = require('firebase-admin')
 const ipfsClient = require('ipfs-http-client')
-const cors = require('cors')({ origin: '*' })
+const cors = require('cors')({ origin: 'https://jobsamuel.com' })
 
 // NOTE: Other projects are initializing firebase too. Check them out.
 if (!admin.apps.length) {
